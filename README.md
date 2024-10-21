@@ -1,2 +1,2 @@
 # codesofttask3
-count the word in a string
+count the word in a okk
